@@ -1,0 +1,5 @@
+.vscode
+!testing_playground
+testing_playground/*
+!testing_playground/init-temp
+*.swp*
